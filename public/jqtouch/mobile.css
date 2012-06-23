@@ -1,0 +1,18 @@
+form#login a.login,
+form#login a.goback {
+	margin: 0 10px 10px 10px;
+}
+
+form#login a.login {
+	color:rgba(0,0,0,0.9);
+}
+
+ul li.weekend {
+	-webkit-gradient(linear, 0%, 0%, 0%, 100%, from(#53b401), to(#208100));
+	
+} 
+
+ul.plastic li {
+	color:white;
+	text-shadow: rbga(0,0,0,0.6) 0 1px 1px;
+}
